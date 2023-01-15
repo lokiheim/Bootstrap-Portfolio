@@ -78,7 +78,7 @@ Google fonts
 ## Links
 
 Github Repo:  https://github.com/lokiheim/Bootstrap-Portfolio
-Deployed site:
+Deployed site:  https://lokiheim.github.io/Bootstrap-Portfolio/
 
 ## Contact
 
